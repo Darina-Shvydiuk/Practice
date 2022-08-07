@@ -1,0 +1,6 @@
+.inner {
+  display: flex;
+  margin-left: 50px;
+  justify-content: space-between;
+  width: 800px;
+}
